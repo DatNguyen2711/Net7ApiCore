@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIwm5/amfyvK1XDYIPKNF3I8ROEUF05TGad1aZUwTVffsI0lHeuW0T1Rz1jMp7jgR5D4uNyHan5UVUYPaa9VPQ==",
+  "dgSpecHash": "S2a7d71iM0Pt27mrg51uw6va4xYH41zzXPfPv/vBNnrZZZHkm3Tt6stGmHMptYmvBkrE1NxUSgkh4VxYegtA+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\datla\\OneDrive\\Documents\\VisualStudioProjects\\CRUDFULLNet7\\Net7CoreAPIFULL\\Net7CoreAPIFULL.csproj",
+  "projectFilePath": "C:\\Users\\datla\\source\\repos\\Net7ApiCore\\Net7CoreAPIFULL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\datla\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\datla\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\Services",
+    "\\Services\\SuperHeroService"
   ],
-  "SelectedNode": "\\C:\\Users\\datla\\Source\\Repos\\DatNguyen2711\\Net7ApiCore",
+  "SelectedNode": "\\Net7CoreAPIFULL.csproj",
   "PreviewInSolutionExplorer": false
 }

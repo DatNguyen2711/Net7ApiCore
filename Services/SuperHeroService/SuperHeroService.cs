@@ -4,7 +4,7 @@ namespace Net7CoreAPIFULL.Services.SuperHeroService
 {
     public class SuperHeroService : ISuperHeroService
     {
-        private static List<Superhero> superheroes = new List<Superhero>
+        private static List<Superhero> superheroes = new List<Superhero>();
 
 
         private readonly DataContext _context;
